@@ -1,4 +1,4 @@
-name: Snyk Pipeline
+name: Snyk Pipeline Maven
 on: push
 jobs:
   security:
