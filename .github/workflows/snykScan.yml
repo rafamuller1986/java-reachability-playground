@@ -1,4 +1,4 @@
-name: Snyk Security Pipeline
+name: Snyk Security Pipeline New
 on: push
 jobs:
   security:
